@@ -18,8 +18,6 @@ O **Maré Sonora** é um festival de música com milhares de pessoas. Lá dentro
 
 O **MaréPay** é o sistema que recebe e guarda essas compras. Este repositório documenta a **arquitetura na AWS** proposta para ele, desenhada para ser **rápida, resiliente e capaz de aguentar o pico** que acontece quando um show termina e todo mundo vai comprar ao mesmo tempo.
 
-> 💡 A arquitetura é parecida com a do projeto AgroSensor visto em aula. No lugar dos sensores das estufas, quem envia os dados são as **leitoras das barracas**.
-
 ---
 
 ## 🏗️ Arquitetura
@@ -137,9 +135,14 @@ Como a API é **stateless** (não guarda dados na memória), nada se perde.
 
 ## 👤 Autor
 
-**Nome:** `<seu nome>`
-**RA:** `<seu RA>`
+**Nome:** `<Livia de Queiroz Schendroski>`
+**RA:** `<824217515>`
 **Curso:** Análise e Desenvolvimento de Sistemas — Universidade São Judas Tadeu
+**Disciplina:** Sistemas Distribuídos & Mobile
+
+**Nome:** `<Leticia Augusto d Silva>`
+**RA:** `<8261108611>`
+**Curso:** Ciência da Computação — Universidade São Judas Tadeu
 **Disciplina:** Sistemas Distribuídos & Mobile
 
 ---
